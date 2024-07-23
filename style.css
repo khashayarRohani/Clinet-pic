@@ -1,0 +1,7 @@
+#ImageContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+#ImageContainer {
+  width: 50%;
+}
